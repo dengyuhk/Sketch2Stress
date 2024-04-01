@@ -2,7 +2,7 @@
 
 ![Teaser](fig/teaser.png)
 
-> [Deng Yu](https://dengyuhk.github.io/), Chufeng Xiao, [Manfred Lau](https://www.scm.cityu.edu.hk/people/lau-chung-man-manfred), [Hongbo Fu](https://sweb.cityu.edu.hk/hongbofu/)
+> [Deng Yu](https://dengyuhk.github.io/), [Chufeng Xiao](https://scholar.google.com/citations?user=2HLwZGYAAAAJ&hl=en), [Manfred Lau](https://www.scm.cityu.edu.hk/people/lau-chung-man-manfred), [Hongbo Fu](https://sweb.cityu.edu.hk/hongbofu/)
 >
 > [[Paper]](https://arxiv.org/abs/2306.05911) [[Project Page]](https://dengyuhk.github.io/Sketch2Stress/) [[Dataset]](#Dataset) [[Video]](https://www.youtube.com/watch?v=WLfEeeFJbYY)
 >
