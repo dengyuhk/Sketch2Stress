@@ -38,8 +38,8 @@ Please download our [pretrained models](https://drive.google.com/file/d/1h4YdpRQ
 You can download our created [dataset](https://drive.google.com/file/d/1EdItIZgZRyj8uHh1gWykjtBQZYTcrK6-/view?usp=sharing) and put them into the `dataset` folder for further training and testing. If you download and use the dataset, you agree to the below items:
 
 * The dataset is available for non-commercial research purposes only.
-* You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
-* We reserves the right to terminate your access to *Sketch2Stress* dataset at any time.
+* You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes any portion of the images and any portion of derived data.
+* We reserve the right to terminate your access to the *Sketch2Stress* dataset at any time.
 
 > Note: Due to limited storage of my Google Drive, the `dataset` only contains one category, **guitar**, but is sufficient for training and testing.  
 
@@ -50,7 +50,7 @@ You can train and test our network using the scripts:
 ```bash
 # You can run one line of the below commands for a certain purpose
 
-## For traning (The checkpoint and resulting files during training will be saved in the 'checkpoints' folder):
+## For training (The checkpoint and resulting files during training will be saved in the 'checkpoints' folder):
 sh train_script.sh
 
 ## For testing (The results will be saved in the 'results' folder):
