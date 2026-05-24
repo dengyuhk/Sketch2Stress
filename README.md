@@ -6,7 +6,7 @@
 >
 > [[Paper]](https://arxiv.org/abs/2306.05911) [[Project Page]](https://dengyuhk.github.io/Sketch2Stress/) [[Dataset]](#Dataset) [[Video]](https://www.youtube.com/watch?v=WLfEeeFJbYY)
 >
-> Accepted by IEEE TVCG 2023
+> Accepted by IEEE TVCG 2024
 
 ## Prerequisites
 
