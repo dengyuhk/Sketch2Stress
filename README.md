@@ -64,7 +64,7 @@ This code is developed based on [pix2pix](https://github.com/phillipi/pix2pix).
 ## BibTeX
 
 ```tex
-@ARTICLE{10356724,
+@ARTICLE{yu2024sketch2stress,
   author={Yu, Deng and Xiao, Chufeng and Lau, Manfred and Fu, Hongbo},
   journal={IEEE Transactions on Visualization and Computer Graphics}, 
   title={Sketch2Stress: Sketching With Structural Stress Awareness}, 
